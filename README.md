@@ -1,6 +1,6 @@
 # QA Challenge
 
-Test Automation project using Ruby,Cucumber,Capyara for UI Tests. 
+Test Automation web project using Ruby, Cucumber, Capybara.
 
 #### Website: http://automationpractice.com/index.php
 
