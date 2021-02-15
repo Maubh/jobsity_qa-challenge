@@ -9,7 +9,7 @@ Test Automation project using Ruby,Cucumber,Capyara for UI Tests.
 <ul>
 <li> Scenarios were written using BDD;</li>
 <li> Automated scripts were implemented using Ruby/Capybara and the Page Objects pattern;</li>
-<li> Automated scenarios have the tag @automatized;</li>
+<li> Automated scenarios have the tag @automatized.</li>
 
 </ul>
 
@@ -53,6 +53,7 @@ cucumber -t @contact_us -> execute the contact form scenarios
 <ul>
 <li>The test suite uses the Report Builder gem to generate the test report</li>
 <li> After run the scenarios, see the test report in the path features/results/report.html</li>
+
 <ul>
 
 ### References
