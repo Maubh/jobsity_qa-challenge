@@ -56,6 +56,16 @@ cucumber -t @contact_us -> execute the contact form scenarios
 
 <ul>
 
+## Informations
+
+<ul>
+<li> Scenarios were written using BDD;</li>
+<li> Automated scripts were implemented using Ruby/Capybara and the Page Objects pattern;</li>
+<li> Automated scenarios have the tag @automatized.</li>
+
+</ul>
+
+
 ### References
 
 
