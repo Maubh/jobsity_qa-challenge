@@ -57,9 +57,10 @@ cucumber -t @contact_us -> execute the contact form scenarios
 
 ## References
 
-[Capybara](http://www.rubydoc.info/github/jnicklas/capybara)<br>
-[Cucumber](https://cucumber.io/docs)<br>
-[Ruby](http://ruby-doc.org/)<br>
-[Report Builder](https://github.com/rajatthareja/ReportBuilder)<br>
-[Automation Practice](http://automationpractice.com/index.php)<br>
-
+<ul>
+<li>[Capybara](http://www.rubydoc.info/github/jnicklas/capybara)</li>
+<li>[Cucumber](https://cucumber.io/docs)</li>
+<li>[Ruby](http://ruby-doc.org/)</li>
+<li>[Report Builder](https://github.com/rajatthareja/ReportBuilder)</li>
+<li>[Automation Practice](http://automationpractice.com/index.php)</li>
+<ul>
