@@ -41,9 +41,9 @@ Test Automation project using Ruby,Cucumber,Capyara for UI Tests.
 1. Run one of the commands below in Terminal:
 
 ```
-cucumber -> Run all scenarios
+cucumber -> Run all the scenarios
 
-cucumber -t @automatized - execute only automatized tests
+cucumber -t @automatized -> execute the only automatized tests
 
 cucumber -t @contact_us -> execute the contact form scenarios
 
