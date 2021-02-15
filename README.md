@@ -55,7 +55,7 @@ cucumber -t @contact_us -> execute the contact form scenarios
 <li> After run the scenarios, see the test report in the path features/results/report.html</li>
 </ul>
 
-### References
+## References
 
 
 [Capybara](http://www.rubydoc.info/github/jnicklas/capybara)<br>
