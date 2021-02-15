@@ -38,7 +38,7 @@ Test Automation project using Ruby,Cucumber,Capyara for UI Tests.
 
 ## Running tests
 
-1. Run the command below in Terminal:
+1. Run one of the commands below in Terminal:
 
 ```
 cucumber -> Run all scenarios
