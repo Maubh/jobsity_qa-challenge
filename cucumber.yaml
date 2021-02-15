@@ -1,0 +1,19 @@
+---
+
+
+default: -p progress -p chrome -p html -p json
+
+pretty: --format pretty
+progress: --format progress
+
+html: --format html --out=log/reports.html
+
+json: --format json --out=results/cucumber_json
+
+
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+ie: BROWSER=iec
+
+
+
