@@ -14,7 +14,6 @@ class ContactPage
 
     def fill_form (subject,email,order,message)
         @subjectField = selectSubject(subject)
-        #select('subject',:from => 'id_contact')
         find(@emailField).set email
         find(@orderField).set order
         find(@messageField).set message
