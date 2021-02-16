@@ -23,8 +23,10 @@ Test Automation web project using Ruby, Cucumber, Capybara.
 
 3. Download and Install ``` Chromedriver LTS ``` -> https://chromedriver.storage.googleapis.com/index.html. Install the same version on the Google Chrome browser used.
 
-For Windows: after instalation, move the driver to C:\Windows 
-For MACOS: after instalation, move the driver to /usr/local/bin
+<ul>
+<li>For Windows: after instalation, move the driver to C:\Windows </li>
+<li>For MACOS: after instalation, move the driver to /usr/local/bin</li>
+</ul>
 
 4. Clone the repository with the command
 
