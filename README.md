@@ -3,6 +3,7 @@
 Test Automation web project using Ruby, Cucumber, Capybara.
 
 #### Website: http://automationpractice.com/index.php
+#### Repo: https://github.com/Maubh/qa-challenge
 
 ## Informations
 
