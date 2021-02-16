@@ -21,7 +21,10 @@ Test Automation web project using Ruby, Cucumber, Capybara.
 
 2. Download and install Google Chrome
 
-3. Download and Install ``` Chromedriver LTS ``` -> https://chromedriver.storage.googleapis.com/index.html. For it, check the Google Chorme version installed.
+3. Download and Install ``` Chromedriver LTS ``` -> https://chromedriver.storage.googleapis.com/index.html. Install the same version on the Google Chrome browser used.
+
+For Windows: after instalation, move the driver to C:\Windows 
+For MACOS: after instalation, move the driver to /usr/local/bin
 
 4. Clone the repository with the command
 
@@ -63,4 +66,6 @@ cucumber -t @contact_us -> execute the contact form scenarios
 [Ruby](http://ruby-doc.org/)<br>
 [Report Builder](https://github.com/rajatthareja/ReportBuilder)<br>
 [Automation Practice](http://automationpractice.com/index.php)<br>
+[Chrome Driver Instalation - Windows](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/)<br>
+[Chrome Driver Instalation - MAC](https://www.swtestacademy.com/install-chrome-driver-on-mac/)<br>
 
