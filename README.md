@@ -52,7 +52,7 @@ cucumber -t @contact_us -> execute the contact form scenarios
 
 <ul>
 <li>The test suite uses the Report Builder gem to generate the test report</li>
-<li> After run the scenarios, see the test report in the path ./results/report.html</li>
+<li> After run the scenarios, see the test report in the path /results/report.html</li>
 </ul>
 
 ## References
