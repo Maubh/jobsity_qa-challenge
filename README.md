@@ -1,5 +1,8 @@
 # QA Challenge
 
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?&logo=ruby&logoColor=white)
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
 Test Automation web project using Ruby, Cucumber, Capybara.
 
 #### Website: http://automationpractice.com/index.php
@@ -71,4 +74,14 @@ cucumber -t @contact_us -> execute the contact form scenarios
 [Automation Practice](http://automationpractice.com/index.php)<br>
 [Chrome Driver Instalation - Windows](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/)<br>
 [Chrome Driver Instalation - MAC](https://www.swtestacademy.com/install-chrome-driver-on-mac/)<br>
+
+## Author
+
+Made with ❤️ by Maurício Filho 👋🏽 Contact me!
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciofilho) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msvasconcelos.filho@gmail.com)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
